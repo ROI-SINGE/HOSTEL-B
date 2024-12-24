@@ -14,9 +14,9 @@
 
 ## Fun Features ✅
 
-- **Jokes and Riddles:** 𝙷𝙾𝚂𝚃𝙴𝙻 𝙱 comes with a collection of jokes and riddles to add fun to your conversations. 😂🤔
+- **Jokes and Riddles:** 𝙷𝙾𝚂𝚃𝙴𝙻 𝙱 comes with a collection of jokes and riddles to add fun to your conversations. 🤔
 
-- **Inspiring Quotes:** Receive inspiring quotes daily to motivate you. 💪🌟
+- **Inspiring Quotes:** Receive inspiring quotes daily to motivate you. 🌟
 
 ## How to Get 𝙷𝙾𝚂𝚃𝙴𝙻 𝙱 ✅
 
