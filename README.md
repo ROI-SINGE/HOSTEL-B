@@ -1,33 +1,33 @@
-# Zokou-2.0 🚀
+# 𝙷𝙾𝚂𝚃𝙴𝙻 𝙱
 
-Zokou is a multi-device bot designed to enhance your WhatsApp conversations with useful and fun features. Whether it’s managing files, interacting with stickers, or facilitating group management, Zokou is here to assist you!
+𝙷𝙾𝚂𝚃𝙴𝙻 𝙱 is a multi-device bot designed to enhance your WhatsApp conversations with useful and fun features. Whether it’s managing files, interacting with stickers, or facilitating group management, HOSTEL B is here to assist you!
 
 ## Key Features ✨
 
-- **File Download:** Zokou can download audio and video files from links you send, making it easy to share them with your contacts. 🎶📹
+- **File Download:** HOSTEL B can download audio and video files from links you send, making it easy to share them with your contacts. 🎧
 
-- **Sticker Export:** You can export stickers from Telegram and use them in your WhatsApp conversations by simply sending them to Zokou. 😄✨
+- **Sticker Export:** You can export stickers from Telegram and use them in your WhatsApp conversations by simply sending them to HOSTEL B. 🦋
 
-- **Group Management:** Zokou offers group management features like adding or removing members, configuring rules, and other settings. 👥📋
+- **Group Management:** 𝙷𝙾𝚂𝚃𝙴𝙻 𝙱 offers group management features like adding or removing members, configuring rules, and other settings. ✍🏾️📋
 
 - **Text to Image:** The best logos have been selected for your convenience. 🖼️🎨
 
-## Fun Features 🎉
+## Fun Features ✅
 
-- **Jokes and Riddles:** Zokou comes with a collection of jokes and riddles to add fun to your conversations. 😂🤔
+- **Jokes and Riddles:** 𝙷𝙾𝚂𝚃𝙴𝙻 𝙱 comes with a collection of jokes and riddles to add fun to your conversations. 😂🤔
 
 - **Inspiring Quotes:** Receive inspiring quotes daily to motivate you. 💪🌟
 
-## How to Get Zokou 🛠️
+## How to Get 𝙷𝙾𝚂𝚃𝙴𝙻 𝙱 ✅
 
-1. Click on **[Fork](https://github.com/Luffy2ndAccount/Zokou-english-v/fork)** to copy the repo to your GitHub account. Don’t forget to add a star 🌟 to encourage the developers.
+1. Click on **[Fork](https://github.com/ROI-SINGE/HOSTEL-B)** to copy the repo to your GitHub account. Don’t forget to add a star 🌟 to encourage the developers.
 
 2. Obtain a bot session: 
 
 - [Session-1](https://zkscan.onrender.com)  
 - [Session-2](https://zokouscan-din3.onrender.com)
 
-3. Deploy Zokou
+3. Deploy 𝙷𝙾𝚂𝚃𝙴𝙻 𝙱 🏢
 - **Heroku Deployment:**
 1. If you don’t have a **Heroku** account, click [**here**](https://id.heroku.com/login) to create one.
 2. Click [**here**](https://dashboard.heroku.com/new?template=https://github.com/Luffy2ndAccount/Zokou-english-v) to deploy the bot on **Heroku**.
@@ -48,20 +48,20 @@ Zokou is a multi-device bot designed to enhance your WhatsApp conversations with
 7. In the **Environment Variable** section, click **Add from .env** and copy the content below:
 
 ```env
-PREFIX=.
+PREFIX=°
 AUTO_READ_STATUS=yes
 AUTO_DOWNLOAD_STATUS=yes
 PM_PERMIT=no
-BOT_NAME=Zokou-MD
-BOT_MENU_LINKS=https://i.pinimg.com/736x/0a/70/6f/0a706f90d6a1fb39919aedfbb7fdd8d3.jpg
+BOT_NAME=𝙷𝙾𝚂𝚃𝙴𝙻 𝙱
+BOT_MENU_LINKS= 
 PUBLIC_MODE=yes
-OWNER_NAME=Djalega++
-NUMERO_OWNER=22891733300
+OWNER_NAME=MR•RIPLEY
+NUMERO_OWNER=241062880842
 WARN_COUNT=3
 STARTING_BOT_MESSAGE=yes
 PRESENCE=1
 PM_CHATBOT=no
-SESSION_ID='zokk'
+SESSION_ID='H•B'
 ANTI_VIEW_ONCE="yes"
 ANTI_COMMAND_SPAM=no
 ```
@@ -114,26 +114,26 @@ jobs:
 
     - name: Start application with timeout
       run: |
-        timeout 14520s npm run zokou
+        timeout 14520s npm run HOSTEL B
 
  ```
 
-## Contributions 🤝
+## Contributions 🎭
 
-Contributions to Zokou are welcome! If you have ideas for new features, improvements, or bug fixes, feel free to open an issue or submit a pull request. 🙌
+Contributions to HOSTEL B are welcome! If you have ideas for new features, improvements, or bug fixes, feel free to open an issue or submit a pull request. 🙌
 
 Special thanks to:
 
 - **Fatao**, who added commands (Fancy, GPT, Dall-e, APK)  
 - **CrazyPrice**, who hosted a second website for the session_id  
 
-## License 📜
+## License ☢️
 
-The WhatsApp Bot Zokou is released under the [MIT License](https://opensource.org/licenses/MIT).
+The WhatsApp Bot HOSTEL B is released under the [MIT License](https://opensource.org/licenses/MIT).
 
-Enjoy the diverse features of Zokou to enhance your WhatsApp experience! 💬🎉
+Enjoy the diverse features of HOSTEL B to enhance your WhatsApp experience! 😮‍💨
 
 ## Developers:
 
-- [**Djalega++**](https://github.com/djalega8000/Zokou-MD/)
-- [**᚛M๏𝓷keℽ D Lบffy᚜**](https://github.com/Faouz995)
+- [MR•RIPLEY](https://github.com/ROI-SINGE/HOSTEL-B)
+
