@@ -10,7 +10,7 @@
 
 - **Group Management:** 𝙷𝙾𝚂𝚃𝙴𝙻 𝙱 offers group management features like adding or removing members, configuring rules, and other settings. ✍🏾️📋
 
-- **Text to Image:** The best logos have been selected for your convenience. 🖼️🎨
+- **Text to Image:** The best logos have been selected for your convenience. 💻
 
 ## Fun Features ✅
 
