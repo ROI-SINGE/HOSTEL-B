@@ -1,5 +1,5 @@
 {
-  "name": "zokou-2.0",
+  "name": "HOSTEL B",
   "version": "2.0.0",
   "description": "",
   "main": "index.js",
@@ -15,17 +15,17 @@
   "keywords": [
     "bot",
     "Baileys",
-    "Zokou",
+    "HOSTEL B",
     "whatsapp",
     "whatsapp-bot",
-    "Fedora",
-    "FaouzKK"
+    "MR•RIPLEY",
+    "Ashley"
   ],
-  "author": "Fedora && FaouzKK",
+  "author": "MR•RIPLEY && Ashley",
   "license": "ISC",
   "dependencies": {
-    "@faouzkk/baileys": "^0.0.1",
-    "@faouzkk/lyrics-finder": "^1.0.3",
+    "@ripkey/baileys": "^0.0.1",
+    "@ripley/lyrics-finder": "^1.0.3",
     "@hapi/boom": "^10.0.1",
     "@xaviabot/fb-downloader": "^1.0.14",
     "aptoide_scrapper_fixed": "^1.0.2",
