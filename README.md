@@ -136,4 +136,31 @@ Enjoy the diverse features of HOSTEL B to enhance your WhatsApp experience! 😮
 ## Developers:
 
 - [MR•RIPLEY](https://github.com/ROI-SINGE/HOSTEL-B)
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Décoration de Texte</title>
+    <style>
+        .decoration {
+            color: blue;
+            font-size: 24px;
+            border: 2px solid red;
+            padding: 10px;
+            text-shadow: 2px 2px 5px gray;
+        }
+    </style>
+</head>
+<body>
+    <p id="monTexte">Bonjour, monde!</p>
+    <button onclick="appliquerDecoration()">Appliquer la décoration</button>
+
+    <script>
+        function appliquerDecoration() {
+            document.getElementById('monTexte').classList.add('decoration');
+        }
+    </script>
+</body>
+</html>
 
