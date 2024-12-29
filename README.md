@@ -4,7 +4,7 @@
 
 ## MON OBJECTIF 😮‍💨
 
-- **Grâce a mon bot:** je pourrais révéler la vérité enfouie 
+- **Grâce a mon bot:** vous pourrez révéler la vérité enfouie vue unique et message supprimé 
 
 - **Créer des Stickers:** j'aime pas trop les applications de stickers 
 
