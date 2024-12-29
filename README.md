@@ -12,9 +12,9 @@
 
 - **Developper des images et plus:** grâce à lui on pourra facilement développer des stickers en images et des logos fun 🌌
 
-## How to Get 𝙷𝙾𝚂𝚃𝙴𝙻 𝙱 ✅
+## COMMENT S'Y RENDRE À HOSTEL-B 🗺️
 
-1. Cliqué ici **[Fork](https://github.com/ROI-SINGE/HOSTEL-B)** copier la repo et n'oubliez  pas de laisser une étoile 🌟 pour m'encourager.
+1. Cliqué ici **[Fork](https://github.com/ROI-SINGE/HOSTEL-B)** la repo et n'oubliez  pas de laisser une étoile 🌟 pour m'encourager.
 
 2. Obtenir une session :
 
