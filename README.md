@@ -6,11 +6,11 @@
 
 - **Grâce a mon bot:** je pourrais révéler la vérité enfouie 
 
-- **Sticker Export:** You can export stickers from Telegram and use them in your WhatsApp conversations by simply sending them to HOSTEL B. 🦋
+- **Créer des Stickers:** j'aime pas trop les applications de stickers 
 
-- **Group Management:** 𝙷𝙾𝚂𝚃𝙴𝙻 𝙱 offers group management features like adding or removing members, configuring rules, and other settings. ✍🏾️📋
+- **Gérer mes groupes:** lorsque l'on crée un groupe whatssap pour plusieurs besoins on a toujours besoin d'un bot pour bien le gérer et fixer des lois ✍🏾️📋
 
-- **Text to Image:** The best logos have been selected for your convenience. 💻
+- **Developper des images et plus:** grâce à lui on pourra facilement développer des stickers en images et des logos fun 😭🌌
 
 ## Fun Features ✅
 
