@@ -10,7 +10,7 @@
  
   
 <a href="https://whatsapp.com/channel/0029ValUh4HLY6dDz3Ejla29">
- <img alt="𝙼𝚁∙𝚁𝙸𝙿𝙻𝙴𝚈" height="300" src="https://pin.it/7dA6eshBX">
+ <img alt="𝙼𝚁∙𝚁𝙸𝙿𝙻𝙴𝚈" height="300" src="https://telegra.ph/file/ead53b07d8ae934f383a7.jpg:">
  
   
 </h1> 
