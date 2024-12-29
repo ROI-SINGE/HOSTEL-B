@@ -10,11 +10,11 @@
  
   
 <a href="https://whatsapp.com/channel/0029ValUh4HLY6dDz3Ejla29">
- <img alt="𝙼𝚁∙𝚁𝙸𝙿𝙻𝙴𝚈" height="300" src="https://telegra.ph/file/ead53b07d8ae934f383a7.jpg:">
+ <img alt="𝙼𝚁∙𝚁𝙸𝙿𝙻𝙴𝚈" height="300" src=":">
  
   
 </h1> 
-<p align="center">ɪ ɪɴᴛʀᴏᴅᴜᴄᴇ <b>𝙼𝚁∙𝚁𝙸𝙿𝙻𝙴𝚈</b>, ᴀ ᴘᴏᴡᴇʀғᴜʟ sɪᴍᴘʟᴇ ᴡᴀᴛsᴀᴘᴘ ʙᴏᴛ </p>
+<p align="center">Je vous présente <b>HOSTEL-B</b>, un bot simple et parfait </p>
 
 **HOSTEL B est un bot whatssap construit pour faciliter notre quotidien sur Whatssap**
 
