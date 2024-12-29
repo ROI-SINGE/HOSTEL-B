@@ -2,9 +2,9 @@
 
 # HOSTEL B est un bot whatssap construit pour faciliter notre quotidien sur Whatssap 
 
-## Key Features ✨
+## MON OBJECTIF 😮‍💨
 
-- **File Download:** HOSTEL B can download audio and video files from links you send, making it easy to share them with your contacts. 🎧
+- **Grâce a mon bot je pourrais révéler la vérité enfouie 
 
 - **Sticker Export:** You can export stickers from Telegram and use them in your WhatsApp conversations by simply sending them to HOSTEL B. 🦋
 
