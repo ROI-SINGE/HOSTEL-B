@@ -34,11 +34,11 @@
 
 ## COMMENT S'Y RENDRE À HOSTEL-B 🗺️
 
-1. ⬇️Cliqué ici la repo et n'oubliez  pas de laisser une étoile 🌟 pour m'encourager.
+1. Cliqué ici la repo et n'oubliez  pas de laisser une étoile 🌟 pour m'encourager.
+⬇️
+ <a href="https://github.com/ROI-SINGE/HOSTEL-B/fork"><img title="WEB" src="https://img.shields.io/badge/FORK HOSTEL•B-WEB?color=black&style=for-the-badge&logo=stackshare"></a>
 
-2. <a href="https://github.com/ROI-SINGE/HOSTEL-B/fork"><img title="WEB" src="https://img.shields.io/badge/FORK HOSTEL•B-WEB?color=black&style=for-the-badge&logo=stackshare"></a>
-
-3. Obtenir une session 📜📬:
+2. Obtenir une session 📜📬:
 
 - pas encore disponible désolé 📭😪
 
