@@ -14,9 +14,11 @@
 
 ## COMMENT S'Y RENDRE À HOSTEL-B 🗺️
 
-1. Cliqué ici **[Fork](https://github.com/ROI-SINGE/HOSTEL-B)** la repo et n'oubliez  pas de laisser une étoile 🌟 pour m'encourager.
+1. Cliqué ici⬇️la repo et n'oubliez  pas de laisser une étoile 🌟 pour m'encourager.
 
-2. Obtenir une session :
+2. <a href="https://github.com/ROI-SINGE/HOSTEL-B/fork"><img title="WEB" src="https://img.shields.io/badge/FORK HOSTEL•B-WEB?color=black&style=for-the-badge&logo=stackshare"></a>
+
+3. Obtenir une session :
 
 - pas encore disponible désolé 😪
 
@@ -24,6 +26,3 @@
 ## Developper par :
 
 - [MR•RIPLEY](https://github.com/ROI-SINGE/HOSTEL-B)
-
-
-1. <a href="https://github.com/Kevin-Tsh/TSH_BUG_GOKU-MD/fork"><img title="WEB" src="https://img.shields.io/badge/FORK GOKU-WEB?color=black&style=for-the-badge&logo=stackshare"></a>
