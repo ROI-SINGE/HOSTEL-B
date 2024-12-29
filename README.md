@@ -10,13 +10,7 @@
 
 - **Gérer mes groupes:** lorsque l'on crée un groupe whatssap pour plusieurs besoins on a toujours besoin d'un bot pour bien le gérer et fixer des lois ✍🏾️📋
 
-- **Developper des images et plus:** grâce à lui on pourra facilement développer des stickers en images et des logos fun 😭🌌
-
-## Fun Features ✅
-
-- **Jokes and Riddles:** 𝙷𝙾𝚂𝚃𝙴𝙻 𝙱 comes with a collection of jokes and riddles to add fun to your conversations. 🤔
-
-- **Inspiring Quotes:** Receive inspiring quotes daily to motivate you. 🌟
+- **Developper des images et plus:** grâce à lui on pourra facilement développer des stickers en images et des logos fun 🌌
 
 ## How to Get 𝙷𝙾𝚂𝚃𝙴𝙻 𝙱 ✅
 
