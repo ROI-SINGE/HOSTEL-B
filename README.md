@@ -18,6 +18,8 @@
 
 **HOSTEL B est un bot whatssap construit pour faciliter notre quotidien sur Whatssap**
 
+ <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a> 
+
 ## MON OBJECTIF 😮‍💨
 
 - **Grâce a mon bot:** vous pourrez révéler la vérité enfouie vue unique et message supprimé 
