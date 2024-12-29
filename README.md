@@ -30,6 +30,8 @@
 
 - **Developper des images et plus:** grâce à lui on pourra facilement développer des stickers en images et des logos fun 🌌
 
+ <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a> 
+
 ## COMMENT S'Y RENDRE À HOSTEL-B 🗺️
 
 1. Cliqué ici⬇️la repo et n'oubliez  pas de laisser une étoile 🌟 pour m'encourager.
@@ -40,6 +42,7 @@
 
 - pas encore disponible désolé 😪
 
+ <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a> 
 
 ## Developper par :
 
