@@ -1,21 +1,5 @@
 # HOSTEL B 🕍
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=100&pause=1000&color=1BAFBAFF&center=true&width=1000&height=200&lines=HOSTEL-+B BOT" alt="Typing SVG" /></a>
-  </p>
-
-
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=DAA520&center=true&width=910&height=100&lines=MR+RIPLEY;JEMIMA❤️;👑ROI+SINGE⚜️" alt="Typing SVG" /></a>
-  </p>
- 
-  
-<a href="https://whatsapp.com/channel/0029ValUh4HLY6dDz3Ejla29">
- <img alt="𝙼𝚁∙𝚁𝙸𝙿𝙻𝙴𝚈" height="300" src="https://files.catbox.moe/bdjmrd.jpg">
- 
-  
-</h1> 
-<p align="center">ɪ ɪɴᴛʀᴏᴅᴜᴄᴇ <b>𝙼𝚁∙𝚁𝙸𝙿𝙻𝙴𝚈</b>, ᴀ ᴘᴏᴡᴇʀғᴜʟ sɪᴍᴘʟᴇ ᴡᴀᴛsᴀᴘᴘ ʙᴏᴛ </p>
-
 **HOSTEL B est un bot whatssap construit pour faciliter notre quotidien sur Whatssap**
 
 ## MON OBJECTIF 😮‍💨
