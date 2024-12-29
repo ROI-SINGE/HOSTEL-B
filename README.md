@@ -4,7 +4,7 @@
 
 ## MON OBJECTIF 😮‍💨
 
-- **Grâce a mon bot je pourrais révéler la vérité enfouie 
+- **Grâce a mon bot:** je pourrais révéler la vérité enfouie 
 
 - **Sticker Export:** You can export stickers from Telegram and use them in your WhatsApp conversations by simply sending them to HOSTEL B. 🦋
 
