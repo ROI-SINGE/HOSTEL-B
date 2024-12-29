@@ -10,7 +10,7 @@
  
   
 <a href="https://whatsapp.com/channel/0029ValUh4HLY6dDz3Ejla29">
- <img alt="𝙼𝚁∙𝚁𝙸𝙿𝙻𝙴𝚈" height="300" src="11111https://cdn.elxyzgpt.xyz/file/zDdXvlE07B.png">
+ <img alt="𝙼𝚁∙𝚁𝙸𝙿𝙻𝙴𝚈" height="300" src="https://files.catbox.moe/6ur89x.jpeg">
  
   
 </h1> 
