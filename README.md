@@ -1,6 +1,6 @@
-# 𝙷𝙾𝚂𝚃𝙴𝙻 𝙱
+# HOSTEL B
 
-𝙷𝙾𝚂𝚃𝙴𝙻 𝙱 is a multi-device bot designed to enhance your WhatsApp conversations with useful and fun features. Whether it’s managing files, interacting with stickers, or facilitating group management, HOSTEL B is here to assist you!
+# HOSTEL B est un bot whatssap construit pour faciliter notre quotidien sur Whatssap 
 
 ## Key Features ✨
 
